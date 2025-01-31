@@ -6,6 +6,10 @@
 
 [Absensi Guru Mapel](https://docs.google.com/spreadsheets/d/1nQQL-QAIONzKHXDTs7tdM2xEV9z6Ct2fs0RlAOoumBg/edit?usp=sharing)
 
+[Ketidakhadiran Siswa](https://docs.google.com/spreadsheets/d/1ZrbNdIuEs7zI2xmteBFX4AnGCL2zOmN5nFmkJalCMUY/edit?usp=sharing)
+
+[Keterlambatan Siswa](https://docs.google.com/spreadsheets/d/1umdr7kkcc4p05_wEhUh_28wNxn0IjMkIxcFoXvweu_8/edit?usp=sharing)
+
 ### Database Siswa
 
 [Daftar Siswa Keseluruhan](https://docs.google.com/spreadsheets/d/1oEsMSiT-Fa370RE3xhMo3oQuUj1IQVbAE0T2huStZqc/edit?usp=sharing)
