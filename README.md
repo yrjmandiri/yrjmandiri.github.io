@@ -10,6 +10,10 @@
 
 [Keterlambatan Siswa](https://docs.google.com/spreadsheets/d/1umdr7kkcc4p05_wEhUh_28wNxn0IjMkIxcFoXvweu_8/edit?usp=sharing)
 
+### Jadwal Pembelajaran
+
+[Jadwal Semester 2](https://docs.google.com/spreadsheets/d/1Gn45Dpapy4wRVAV_9kIckc192TpOC58AhYJrW_WjQpM/edit?usp=sharing)
+
 ### Database Siswa
 
 [Daftar Siswa Keseluruhan](https://docs.google.com/spreadsheets/d/1oEsMSiT-Fa370RE3xhMo3oQuUj1IQVbAE0T2huStZqc/edit?usp=sharing)
