@@ -1,5 +1,9 @@
 # Yayasan Roudhotul Jannah Gondanglegi
 
+## Daftar Siswa
+
+- [Kelas 12 TKJ](2025/12-TKJ.md)
+
 ## Bookmarks
 
 ### Absensi Siswa
