@@ -4,6 +4,10 @@
 
 - [Kelas 12 TKJ](2025/12-TKJ.md)
 
+## Kegiatan
+
+- [Penilaian Tengah Semester](Kegiatan/PTS/Index.md)
+
 ## Bookmarks
 
 ### Absensi Siswa
