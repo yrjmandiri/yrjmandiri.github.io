@@ -9,7 +9,7 @@
 
 ## SMP Mandiri
 
-1. Download template soal di [sini](https://drive.google.com/u/0/uc?id=1Ekql41SA3Qatd662eOuIcrWind6o5f4D&export=download)
+1. Download template soal di [sini](https://drive.google.com/u/0/uc?id=1KVnF76M8zGuh1OJ-XhKIpvq0BUBmpUYA&export=download)
 2. Isikan soal beserta petunjuk pengerjaan di bagian yang sudah ditentukan
 3. Letakkan soal di Synology Drive => File Share Guru => SMP => 2024-2025 => PTS Genap 2024-2025
 4. Konfirmasi ke kurikulum bahwa sudah mengumpulkan PTS untuk segera di cek
