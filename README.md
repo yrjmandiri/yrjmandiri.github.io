@@ -6,7 +6,8 @@
 
 ## Kegiatan
 
-- [Penilaian Tengah Semester](Kegiatan/PTS/Index.md)
+- [Pengumpulan Soal PTS Genap](Kegiatan/PTS/Index.md) (Deadline tanggal 8 Maret 2025)
+- [Pengumpulan Kisi-Kisi USP SMP](Kegiatan/USP/index.md) (Deadline tanggal 8 Maret 2025)
 
 ## Bookmarks
 
