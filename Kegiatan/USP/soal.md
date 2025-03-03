@@ -8,8 +8,9 @@
     - Kelas 8: 8 soal (MTK), 9 soal (IPA), 12 soal (Umum)
     - Kelas 9: 12 soal (MTK), 15 soal (IPA), 20 soal (Umum)
 - Soal akan diverifikasi dulu oleh kurikulum (terdapat kemungkinan untuk revisi)
+- Soal harus sesuai dengan template yang dibagikan
 
-## Cara Mengisi Kisi-kisi
+## Cara Mengisi Soal
 
 1. Download template soal
     - Untuk **Soal Matematika** download template di [sini](https://drive.google.com/u/0/uc?id=1SkB4myFWaoxDaWghCyQ45Qkgk_11xJcQ&export=download)
