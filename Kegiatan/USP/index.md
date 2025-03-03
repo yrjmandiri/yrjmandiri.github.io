@@ -8,7 +8,10 @@
 
 ## Cara Mengisi Kisi-kisi
 
-1. Download template kisi-kisi di [sini](https://drive.google.com/u/0/uc?id=15nFAPheYzbQQEmxp6GkQ9DSqrymYxBQ_&export=download)
+1. Download template kisi-kisi
+    - Untuk **Soal Matematika** download template di [sini](https://drive.google.com/u/0/uc?id=1JuXYc9jcfTcwU6G9AxuIjdboehKVYP3E&export=download)
+    - Untuk **Soal IPA** download template di [sini](https://drive.google.com/u/0/uc?id=1auDsnfjEa7Ur-xJHrFis6_L6xF_AUEcp&export=download)
+    - Untuk **Soal Lainnya** download template di [sini](https://drive.google.com/u/0/uc?id=15nFAPheYzbQQEmxp6GkQ9DSqrymYxBQ_&export=download)
 2. Isi template sesuai dengan kisi-kisi yang ada
 3. Setelah selesai copy file kisi-kisi ke Synology => File Share Guru => SMP => 2024-2025 => USP IX 2024-2025 => Kisi-kisi
 4. Ganti nama file dengan nama mapel
