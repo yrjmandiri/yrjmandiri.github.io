@@ -15,6 +15,8 @@
 ## Petunjuk Pengisian
 
 - Diisi di sheet "UP" bukan di sheet yang lain
-![Petunjuk](Gambar/Petunjuk_UP.png)
+
+![Petunjuk](../../Gambar/Petunjuk_UP.png)
+
 - *Jangan mengisi apa pun kecuali nilai*
 - *Rentang nilai antara 75 - 100*
