@@ -6,9 +6,10 @@
 
 ## Kegiatan
 
-- [Pengumpulan Soal PTS Genap](Kegiatan/PTS/Index.md) (Deadline tanggal 8 Maret 2025)
-- [Pengumpulan Kisi-Kisi USP SMP](Kegiatan/USP/index.md) (Deadline tanggal 8 Maret 2025)
-- [Pengumpulan Soal USP SMP](Kegiatan/USP/soal.md) (Deadline tanggal 22 Maret 2025)
+- [Pengumpulan Nilai Ujian Praktik SMK](Kegiatan/Uprak/index.md) (Deadline tanggal 15 April 2025)
+- Pengumpulan Soal PTS Genap (Deadline tanggal 8 Maret 2025)
+- Pengumpulan Kisi-Kisi USP SMP (Deadline tanggal 8 Maret 2025)
+- Pengumpulan Soal USP SMP (Deadline tanggal 22 Maret 2025)
 
 ## Bookmarks
 
